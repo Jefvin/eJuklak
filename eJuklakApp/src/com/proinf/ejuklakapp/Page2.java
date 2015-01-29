@@ -9,20 +9,16 @@ import android.view.MenuItem;
 import android.view.View;
 
 
-public class MainActivity extends ActionBarActivity {
+public class Page2 extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.layout2);
     }
 
 
     public void onClick(View v){
-    	if(v.getId()==R.id.button1){
-        	Intent intent = new Intent(getApplicationContext(), Page2.class);
-    		startActivity(intent);
-    	}
     }
     
     @Override
