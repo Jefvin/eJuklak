@@ -1,0 +1,785 @@
+PETUNJUK PELAKSANAAN 
+KEGIATAN AKADEMIK
+
+TAHUN 2014/2015 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
+UNIVERSITAS KATOLIK PARAHYANGAN Jl. Ciumbuleuit 94 Bandung 40141 Tlp. +62-22-204-1964 Ext. 707 Faks. +62-22-204-2141
+ftis@unpar.ac.id
+http://www.unpar.ac.id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tim Penyusun
+Cecilia Esti Nugraheni
+Livia Owen
+Farica Edgina Yosafat
+Luciana Abednego
+Pranyoto Teguh Imanto
+Thomas Anung Basuki
+
+
+
+
+
+
+
+Copyright © 2014 FTIS UNPAR
+KATA PENGANTAR
+DEKAN FAKULTAS TEKNOLOGI INFORMASI DAN SAINS
+UNIVERSITAS KATOLIK PARAHYANGAN
+
+Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran – Penelitian – Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 – 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.
+
+Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut. Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap awal tahun akademik, sehingga civitas academica di lingkungan Fakultas memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam buku petunjuk ini akan disampaikan melalui papan pengumuman serta media komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademik berikutnya.
+
+Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai.
+
+Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
+
+
+
+Bandung,     
+Dekan,
+
+
+Paulus Cahyono Tjiang, Ph.D.
+
+
+Table of Contents
+Kata Pengantar	iii
+Bab 1 Pendahuluan	…1
+1.1 Sejarah Fakultas Teknologi dan Sains	1
+1.2 Visi, Misi, Tujuan dan Sasaran FTIS	2
+	1.2.1 Visi FTIS	2
+	1.2.2 Misi FTIS	4
+	1.2.3 Tujuan FTIS	4
+	1.2.4 Sasaran FTIS	5
+1.3 Keberhasilan FTIS	5
+1.4 Pengelola Fakultas	6
+1.5 Daftar Dosen FTIS	7
+
+Bab 2 Penyelenggaraan Mata Kuliah	11
+2.1 Mata Kuliah Pilihan	12
+2.2 Mata Kuliah Prasyarat	12
+2.3 Mata Kuliah Layanan	13
+	2.3.1 Mata Kuliah Layanan Program Studi Matematika	13
+	2.3.2 Mata Kuliah Layanan Program Studi Fisika	13
+	2.3.1 Mata Kuliah Layanan Program Studi Teknik Informatika	14
+2.4 Mata Kuliah Umum	14
+	2.4.1 Susunan Mata Kuliah Umum	14
+	2.4.2 Uraian Singkat Mata Kuliah Umum	14
+2.5 Kurikulum Program Studi Matematika	17
+	2.5.1 Susunan Mata Kuliah	17
+	2.5.2 Mata Kuliah Pilihan Program Studi Matematika 	18
+	2.5.3 Peta dan Prasyarat	20
+	2.5.4 Deskripsi Singkat Mata Kuliah Program Studi Matematika 	20
+
+2.6 Kurikulum Program Studi Fisika	24
+	2.5.1 Susunan Mata Kuliah	24
+	2.5.2 Mata Kuliah Pilihan Program Studi Fisika 	28
+	2.5.3 Peta dan Prasyarat	26
+	2.5.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika 	28
+2.7 Kurikulum Program Studi Teknik Informatika	39
+	2.5.1 Susunan Mata Kuliah	39
+	2.5.2 Mata Kuliah Pilihan Program Studi Teknik Informatika 	41
+	2.5.3 Peta dan Prasyarat	43
+	2.5.4 Deskripsi Singkat Mata Kuliah Program Studi Teknik Informatika 	43
+Bab 3 Kegiatan Akademik	48
+3.1 Penyusunan Rencana Studi	48
+	3.1.1 Perwalian dan Penentuan Mata Kuliah	48
+	3.1.2 Pendataran Mata Kuliah	50
+	3.1.3 Tahap Perkuliahan Awal	50
+	3.1.4 Perubahan Rencana Studi	50
+3.2 Kegiatan Perkuliahan	51
+3.3 Tata Cara Ujian	52
+	3.3.1 Syarat Mengikuti Ujian	52
+	3.1.2 Tata Tertib Ujian	53
+	3.1.3 Sanksi	55
+	3.1.4 Lain-lain	56
+3.4 Cuti dan Gencat Studi	56
+	3.3.1 Persyaratan Cuti Studi	56
+	3.1.2 Prosedur Cuti Studi	57
+	3.1.3 Gencat Studi	58
+3.5 Pengunduran Diri Sebagai Mahasiswa	59
+Bab 4 Evaluasi Keberhasilan Belajar	60
+4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah	60
+4.2 Evaluasi Keberhasilan Belajar Dalam Satu Tahap Belajar	62
+	4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester	62
+	4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama	63
+	4.2.3 Evaluasi Keberhasilan Belajar Tahap Kedua	63
+	4.2.4 Evaluasi Keberhasilan Belajar Tahap Akhir	64
+3.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR	65
+Lampiran 1 Jadwal Akademik Tahun Akademik 2014/2015	66
+Lampiran 2 Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015	66
+Lampiran 3 Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015	66
+Lampiran 4 Keputusan Rektor UNPAR Tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana dan Diploma III di Lingkungan Universitas Katolik Parahyangan	67
+Lampiran 5 Keputusan Rektor UNPAR Tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan 	73
+Lampiran 6 Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Progrm Sarjana dan Program Diploma III di Universitas Katolik Parahyangan	76
+Lampiran 7 Keputusan Rektor UNPAR Tentang Peraturan Tata Tertib Mahasiswa dan Prosedur Penjatuhan Sanksi	78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB 1
+		PENDAHULUAN
+
+1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
+
+Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.
+
+Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
+Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
+Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
+Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+
+Ketiga program studi yang sekarang berada dalam naungan FTISini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
+
+1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
+Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah 
+
+Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan.
+
+Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
+pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
+proses pembelajaran yang berpusat pada mahasiswa;
+penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
+pengabdian kepada masyarakat,
+sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
+
+
+1.2.1 Visi FTIS
+
+Visi FTIS 2020 adalah sebagai berikut: 
+
+”Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia”.
+
+FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
+Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (indigenous) yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu untuk disejajarkan dan dikompetisikan pada tataran internasional.
+Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
+
+1.2.2 Misi FTIS
+
+Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
+Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
+Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
+
+1.2.3 Tujuan FTIS
+
+Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
+Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
+Memiliki pengetahuan dasar Matematika, Fisika, atau Teknik Informatika, yang kokoh dan berkemampuan bernalar yang baik, logis, matematis, dan/atau fisis; 
+Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
+Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
+
+Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
+
+1.2.4 Sasaran FTIS
+
+Sasaran FTIS adalah sebagai berikut :
+Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
+Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
+Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
+Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
+
+
+1.3 Keberhasilan FTIS
+Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain.
+Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri. 
+Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
+
+1.4 Pengelola Fakultas
+
+
+
+
+
+1.5 Daftar Dosen FTIS
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+BAB 2
+PENYELENGGARAAN MATA KULIAH
+
+Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu matakuliah wajib dan matakuliah pilihan. Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompokmatakuliah umum (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
+Matakuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Matakuliah pilihan dapat diambil dari matakuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau matakuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil matakuliah pilihan berdasarkan persetujuan dari dosen wali.
+Selain matakuliah-matakuliah di atas, dikenal juga apa yang disebut dengan matakuliah prasyarat. Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. 
+Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, prodi-prodi juga menyelenggarakan matakuliah yang ditujukan untuk program studi lain. Matakuliah ini disebut dengan matakuliah layanan.
+Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan APR. 
+
+
+
+2.1 Matakuliah Pilihan
+Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
+Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
+Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
+Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+
+Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
+Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
+Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
+
+2.2 Matakuliah Prasyarat
+Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
+Prasyarat tempuh, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
+Prasyarat lulus, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
+Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
+
+
+
+2.3 Matakuliah Layanan
+Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
+
+2.3.1 Kuliah Layanan Program Studi Matematika
+
+
+
+
+2.3.2Kuliah Layanan Program Studi Fisika
+
+
+
+2.3.3  Kuliah Layanan Program Studi Teknik informatika
+
+
+2.4 Matakuliah Umum
+Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
+
+2.4.1Susunan Matakuliah Umum
+
+
+2.4.2  Uraian Singkat Matakuliah Umum
+
+
+
+Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
+2.5 Kurikulum Program Studi Matematika
+2.5.1 	Susunan Mata kuliah
+
+
+
+
+
+
+2.5.2	Mata kuliah  Pilihan Program Studi Matematika
+Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
+
+Kelompok Bidang Kajian: Rekayasa Keuangan
+Matematika Asuransi 			Matematika Keuangan
+
+
+Kelompok Bidang Kajian: Rekayasa Keuangan
+Optimasi dan Teori Kontrol
+
+
+
+Statistika & Penelitian Operasional
+
+
+Matematika Terapan
+
+
+Lain-lain
+
+
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
+
+2.5.3 	Peta dan Prasyarat Mata kuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+
+Deskripsi Singkat Mata kuliah Prodi Matematika
+
+
+
+
+Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
+
+
+
+
+
+
+2.6 Kurikulum Program Studi Fisika
+2.6.1 	Susunan Matakuliah
+
+
+
+
+
+
+
+
+Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+
+
+
+
+2.6.2 Matakuliah Pilihan Program Studi Fisika
+
+Lain-lain
+
+
+Kelompok Fisika Teoretik
+
+
+Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+
+
+Kelompok Biofisika
+
+
+Kelompok Fisika Material dan Optika
+
+
+Kelompok Fisika Bumi
+
+
+Kelompok Astrofisika
+
+
+
+2.6.3Peta dan Prasyarat Matakuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+2.6.4Deskripsi Singkat Matakuliah Program Studi Fisika
+
+
+
+
+
+
+
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
+
+
+
+
+
+
+
+
+
+
+
+2.7 Kurikulum Program Studi Teknik Informatika
+2.7.1 	Sususan matakuliah
+
+
+
+
+
+
+
+
+
+
+
+Keterangan :
+Mata kuliah pilihan wajib.
+Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut 
+Mata kuliah projek.
+Mahasiswa harus lulus salah satu dari 
+Projek Informatika, atau 
+Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+
+
+Aturan tambahan :
+Mata kuliah pilihan dari luar jurusan 
+Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+Skor Coding
+Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
+Nilai minimum kuliah jalur pemrograman/algoritma
+Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+
+2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+
+
+
+
+
+2.7.3Peta dan Prasyarat Matakuliah 
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
+
+2.7.4 Deskripsi Matakuliah
+
+
+
+Gambar 3. Peta dan Prasyarat Matakuliah
+Deskripsi matakuliah
+
+
+
+
+BAB 3
+KEGIATAN AKADEMIK
+
+Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester reguler yaitu Semester Ganjil dan Semester Genap. Selain itu, tergantung pada kebijakan universitas, kebutuhan dan kemampuan prodi, dapat diselenggarakan Semester Pendek. PenyelenggaraanSemester Pendek ini bersifat tentatif. Demikian juga keikutsertaan mahasiswa dalam kegiatan akademik pada Semester Pendek bersifat sukarela.
+
+Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
+Penyusunan Rencana Studi
+Kegiatan Perkuliahan 
+Kegiatan Responsi dan / atau Praktikum
+Ujian
+Skripsi
+
+3.1 Penyusunan Rencana Studi
+3.1.1 Perwalian dan Penentuan Mata Kuliah
+Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun rencana studi bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti pada semester yang bersangkutan.
+Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut: 
+Pada umumnya, mahasiswa mengambil semua mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
+Memprioritaskan matakuliah semester lebih awal yang belum lulus. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
+Memprioritaskan matakuliah menjadi prasyarat (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.
+Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+
+
+
+Dengan penjelasanSatu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian : 
+1 jam kuliah 
+1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+
+Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
+
+
+
+3.1.2 	Pendaftaran Mata Kuliah
+Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url https://mhs.akad.unpar/), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
+Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa wajib memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
+
+Catatan:
+Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut dapat diwakilkan olehmahasiswa FTIS UNPAR, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah 10 sks. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
+
+3.1.3	Tahap Perkuliahan Awal
+Kuliah, responsi, dan praktikum perdana adalah penting, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini. Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.
+
+3.1.4 	Perubahan Rencana Studi
+Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi yang telah dilakukan, maka mahasiswa tersebut perlu mengikuti tahap perubahan rencana studi. Namun disarankan agar mahasiswa berusaha sedapat mungkin menghindari tahap perubahan rencana studi ini, karena cenderung merugikan diri sendiri dari segi waktu maupun efisiensi studi.
+
+3.2 Kegiatan Perkuliahan
+Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
+Perincian kegiatan perkuliahan adalah sebagai berikut :
+Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS), yang sebaiknya dimanfaatkan secara maksimal dengan :
+membaca bahan yang diperkirakan akan dibahas dosen,
+menanyakan segala hal yang belum jelas kepada dosen,
+meminta saran dosen tentang cara belajar dan berlatih yang baik.
+Kehadiran pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+Kegiatan akademik terstruktur (± 1 jam/SKS), yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
+Responsi merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
+Praktikumbertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
+Pekerjaan rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok. 
+Kegiatan akademik mandiri(± 1 jam / sks), merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
+
+3.3 Tata Cara Ujian
+Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
+Ujian Tengah Semester (UTS)
+Ujian Akhir Semester (UAS)
+Ujian Praktikum (jika ada)
+Ujian Seminar dan Skripsi
+
+Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut. 
+
+3.3.1 Syarat Mengikuti Ujian
+Syarat untuk mengikuti UTS dan UAS:
+Terdaftar sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR. 
+Telah melunasi seluruh biaya kuliah semester terkait. Perkecualian khusus pada masa UTS diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2. 
+Membawa KTMyang sah untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
+
+3.3.2 Tata Tertib Ujian
+Kehadiran
+
+Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya 15 menit sebelum ujian dimulai. 
+Peserta ujian yang terlambat setelah ujian dimulai tidak diperkenankan mengikuti ujian yang bersangkutan.
+Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait bernilai 0 (nol).
+
+Perlengkapan
+
+Peserta ujian wajib membawa Kartu Tanda Mahasiswa (KTM) yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
+Peserta ujian wajib menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
+Peserta ujian dilarang membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
+Alat atau media komunikasi dalam bentuk apapun (handphone, PDA, dan sebagainya) harus dimatikan/dinonaktifkan (bukan di-silent/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
+Peserta ujian dilarang membawa makanan/minuman ke tempat duduk. 
+Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
+Peserta ujian dilarang merokok di ruang ujian.
+
+Pakaian 
+
+Peserta ujian wajib mengenakan pakaian yang sopan dan rapi.
+Peserta ujian wajib memakai sepatu.
+
+Tempat duduk 
+
+Peserta ujian harus menempati ruang ujian dan tempat duduk sesuai dengan nomor ujian. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas. 
+Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
+
+Pelaksanaan 
+
+Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
+Sebelum mulai mengerjakan soal ujian, peserta ujian wajib mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
+Sejak ujian dimulai peserta ujian wajib menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.
+Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.
+Peserta ujian wajib menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.
+Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.
+Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. Kertas buram terisi atau tidak harus dikumpulkan kembali bersama dengan lembar jawab.
+Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat 30 menit setelah ujian dimulai.
+Dilarang keras melakukan kecurangan dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+Melihat berkas ujian milik peserta ujian lain;
+Memperlihatkan atau memberikan berkas ujian milik sendiri kepada peserta ujian lain;
+Memberikan atau menerima petunjuk atau jawaban ujian dengan cara dan media apapun;
+Melihat buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+Pinjam-meminjam alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+Peserta ujian yang melakukan kecurangan pada saat ujian akan dikenakan sanksi akademik yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
+Selama ujian berlangsung, peserta ujian tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+
+3.3.3	Sanksi
+Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
+Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
+Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
+Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS seluruh matakuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
+Mahasiswa yang terbukti melakukan pelanggaran norma kejujuran pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi E (tidak lulus).
+Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi E (tidak lulus).
+Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
+
+3.3.4	Lain-lain
+Tidak ada ujian khusus untuk perbaikan nilai ujian.
+Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
+Sakit, yang diperkuat oleh surat keterangan rawat inap dari rumah sakit.
+Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
+Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
+
+3.4 Cuti dan Gencat Studi
+(berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)
+
+3.4.1 Persyaratan cuti studi
+Mahasiswa yang cuti studi adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
+Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
+Cuti studi dapat diberikan kepada mahasiswa yang telah mengikuti program pendidikan di jurusan terkait sekurang-kurangnya 2 (dua) semester berturut-turut.
+
+3.4.2 Prosedur Cuti Studi
+Mahasiswa wajib mengisi Surat Permohonan Cuti Studi Mahasiswa yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi rekomendasi dosen wali mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS selambat-lambatnya sebelum berakhirnya masa PRS semester terkait dengan cuti tersebut. 
+Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah financial, atau (c) masalah pribadi lainnya. 
+Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
+Masa cuti studi tidak diperhitungkan sebagai masa studi terpakai dalam evaluasi tahap studi.
+Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib 
+Mengisi Formulir Rencana Studi dengan beban 0 (nol) sks, dan didaftarkan sesuai dengan prosedur yang ada.
+Membayar 100% (seratus persen)Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
+Dalam hal mahasiswa mengajukan permohonan cuti studi setelah masa PRS berakhir, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila 
+Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
+Mendapat ijin dari WR-1.
+Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut tidak dapat dikembalikan dan sisa kewajiban keuangan yang belum dilunasi harus diselesaikan.
+Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan gencat studi.
+
+3.4.3 Gencat studi
+Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi diperhitungkan sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama 2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut tidak diijinkan melanjutkan studi di lingkungan UNPAR.
+Adapun prosedur pengaktifan kembali status mahasiswa setelah gencat studi adalah sebagai berikut:
+
+Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
+alasan gencat studi pada semester sebelumnya
+rekomendasi dosen wali yang bersangkutan
+Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
+Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
+Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
+Dikenakan sanksi keuangan berupa pelunasan 200% (dua ratus persen) Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
+Dikenakan sanksi akademik berupa hak tempuh sebanyak 12 SKS pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh maksimal 18 SKS berdasarkan pertimbangan yang sah.
+Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.
+
+
+
+3.5 Pengunduran Diri Sebagai Mahasiswa
+Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :
+Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
+Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
+Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
+Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima :
+SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
+Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
+
+
+
+
+
+
+
+BAB 4
+EVALUASI KEBERHASILAN BELAJAR
+
+
+Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
+Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
+Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
+
+
+4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
+Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara menyeluruh dan berkesinambungan dalam satu semester dengan cara yang sesuai dengan karakteristik mata kuliah yang bersangkutan.
+Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa menyelesaikan seluruh Komponen Kegiatan yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai Bentuk Kegiatan, yang masing-masing memiliki Komponen Kegiatan dan Komponen Evaluasi sebagai berikut :
+
+
+
+
+
+Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
+Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan Nilai Akhir (NA) berupa huruf A, B, C, D, dan E. Nilai Akhir A, B, C, dan D berarti lulus, sedangkan Nilai Akhir E berarti tidak lulusNilai Akhir (NA) A, B, C, dan D berarti lulus, sedangkan Nilai Akhir E berarti tidak lulus.
+Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang ditentukan dalam suatu mata kuliah, maka keberhasilan belajar mahasiswa untuk matakuliah tersebut dapat dinyatakan Kosong (K) oleh Dekan. Jika keberhasilan belajar seorang mahasiswa untuk suatu matakuliah adalah K, maka matakuliah ini dianggap belum pernah ditempuh dan tidak diikutsertakan dalam perhitungan Indeks Prestasi.
+Komponen Evaluasi dinyatakan dalam bentuk angka dengan rentang 0 – 100 dengan pembulatan angka pecahan hingga satuan terdekat, dengan ketentuan bilangan pecahan ≥ 0,5 dibulatkan menjadi 1 dan bilangan pecahan < 0,5 dibulatkan menjadi 0.
+Konversi Angka Akhir (AA) menjadi Nilai Akhir (NA) dilakukan dengan Penilaian Acuan Patokan (PAP) sebagai berikut :
+
+
+
+Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan Penilaian Acuan Normal (PAN).
+
+4.2 	Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
+Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
+Evaluasi Keberhasilan Belajar Tiap Semester
+Evaluasi Keberhasilan Belajar Tahap Pertama
+Evaluasi Keberhasilan Belajar Tahap Kedua
+Evaluasi Keberhasilan Belajar Tahap Akhir
+
+4.2.1  Evaluasi Keberhasilan Belajar Tiap Semester
+Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam Indeks Prestasi Semester (IPS) yang mempunyai rentang 0,00 – 4,00 dan dihitung dengan rumus:
+
+
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan beban kredit yang dapat ditempuh mahasiswa pada semester berikutnya. 
+
+4.2.2 	Evaluasi Keberhasilan Belajar Tahap Pertama
+Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan pada akhir 2 (dua) tahun pertama, atau pada akhir masa studi terpakai selama 4 (empat) semester, terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam Indeks Prestasi Tahap Pertama (IPT I), dengan rentang 0,00 – 4,00.
+Persyaratan yang harus dipenuhi pada Evaluasi Keberhasilan Belajar Tahap Pertama adalah telah lulus minimal 30 SKS dan IPT Iminimal 2,00.Dalam hal ini yang dimaksud dengan IPT I adalahIndeks Prestasi untuk 30 SKS terbaik.Jika persyaratan tersebut tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodiyang sama di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.
+Semester dimana mahasiswa diijinkan mengambil cuti studi tidak diperhitungkan dalam Evaluasi Keberhasilan Belajar Tahap Pertama.
+
+Evaluasi Keberhasilan Belajar Tahap Kedua
+Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan pada akhir 4 (empat) tahun pertama, atau pada akhir masa studi terpakai selama 8 (delapan) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam Indeks Prestasi Tahap Kedua (IPT II), dengan rentang 0,00 – 4,00.
+Persyaratan yang harus dipenuhi pada Evaluasi Keberhasilan Belajar Tahap Kedua adalah telah lulus minimal 75 SKS dan IPT II minimal 2,00.Dalam hal ini yang dimaksud dengan IPT II adalahIndeks Prestasi untuk 75SKS terbaik. Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.
+Semester dimana mahasiswa diijinkan mengambil cuti studi tidak diperhitungkan dalam Evaluasi Keberhasilan Belajar Tahap Kedua.
+
+
+4.2.4  Evaluasi Keberhasilan Belajar Tahap Akhir
+Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
+Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam Indeks Prestasi Kumulatif (IPK), dengan rentang 0,00 – 4,00yang dihitung dengan rumus
+
+
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan lulus dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
+Telah lulus seluruh beban SKS yang dipersyaratkan dalam kurikulum prodi terkait.
+IPK ≥ 2,00.
+Masa studi terpakai tidak lebih dari 14 (empat belas) semester.
+Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak diijinkan melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.
+IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
+
+
+4.3 	Kemampuan Bahasa Inggris Mahasiswa UNPAR
+Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
+
+Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
+Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
+Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
+Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
+
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
+
+
+
+
+
+
+
+
+
+Lampiran1
+Jadwal Akademik Tahun Akademik 2014/2015
+
+Lampiran 2
+Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015
+
+Lampiran 3
+Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015
+
+
+Lampiran 4
+
+
+
+
+
+
+
+Lampiran 5
+
+
+
+Lampiran 6
+
+
+Lampiran 7
+
+
+
+
+
+
+
+
